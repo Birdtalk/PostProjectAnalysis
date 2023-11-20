@@ -18,7 +18,7 @@
             <a href="#actuals">Hourly Actuals</a> •
             <a href="#keydiff">Key Differences</a> •
           <a href="#timeline">Hourly Actual Timeline</a> •
-         <a href="#keyfeatures ">Key Requirments</a> 
+         <a href="#keyfeatures">Key Requirments</a> 
       </p>
 
 </nav>
