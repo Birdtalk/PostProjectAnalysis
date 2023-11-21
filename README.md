@@ -29,7 +29,7 @@
 The Microsoft Project document provides a comprehensive and visually organized schedule for a project, offering a detailed roadmap of tasks, milestones, and timelines. Utilizing Gantt charts and other project management tools, this document presents a clear overview of project activities, their interdependencies, and the anticipated project timeline. It serves as a dynamic and interactive resource, allowing project stakeholders to monitor progress, identify critical paths, and make informed decisions to ensure successful project completion. The document may include task durations, resource allocation, and dependencies, facilitating effective project coordination and communication among team members. Overall, the Microsoft Project document is an invaluable tool for project managers and teams to plan, track, and manage project schedules efficiently.
 </p>
 <br/>
-<img align="center" src="Project Time Budget.png"/>
+<img align="center" src="Mic Proj.png"/>
 </section>
 
 <section id="estimates">
