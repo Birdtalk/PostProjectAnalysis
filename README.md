@@ -5,6 +5,8 @@
 </p>
   <p>
     This Repository contains useful dashboard visualizations made with data taken from Microsoft Project over the lifespan of a 10 week Agile Project. In the dynamic landscape of project management, the ability to distill complex information into clear and meaningful visuals is paramount. These visualizations serve as powerful tools for understanding, analyzing, and communicating the intricacies of project timelines and resource allocation.
+
+	
   </p>
 </header>
 
@@ -29,6 +31,8 @@
 <h1>Microsoft Project Work Scheduled Hours Estimates</h1>
 <p>
 The Microsoft Project document provides a comprehensive and visually organized schedule for a project, offering a detailed roadmap of tasks, milestones, and timelines. Utilizing Gantt charts and other project management tools, this document presents a clear overview of project activities, their interdependencies, and the anticipated project timeline. It serves as a dynamic and interactive resource, allowing project stakeholders to monitor progress, identify critical paths, and make informed decisions to ensure successful project completion. The document may include task durations, resource allocation, and dependencies, facilitating effective project coordination and communication among team members. Overall, the Microsoft Project document is an invaluable tool for project managers and teams to plan, track, and manage project schedules efficiently.
+	</br>	</br>
+	<u><b>HOWEVER </b> </u>This sort of data is hard to digest as a simple dataset and can benefit greatly from having a dashboard built which visualizes many of the key features of this data.
 </p>
 <br/>
 <img align="center" src="Mic Proj.png"/>
