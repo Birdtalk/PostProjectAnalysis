@@ -1,7 +1,7 @@
 # PostProjectAnalysis
 
 <header>
-  <h1  align="left">Dashboard Images for Post Project Analysis</h1>
+  <h1  align="left">Project Analysis Dashboards and Images</h1>
 </p>
   <p>
     This Repository contains 
