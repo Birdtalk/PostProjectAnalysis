@@ -30,7 +30,7 @@
 <section id="micproject">
 <h1>Microsoft Project Work Scheduled Hours Estimates</h1>
 <p>
-The Microsoft Project document provides a comprehensive organized schedule for a project, offering a detailed roadmap of tasks, milestones, and timelines. Utilizing Gantt charts and other project management tools, this document presents a clear overview of project activities, their interdependencies, and the anticipated project timeline. It serves as a dynamic and interactive resource, allowing project stakeholders to monitor progress, identify critical paths, and make informed decisions to ensure successful project completion. Overall, the Microsoft Project document is an invaluable tool for project managers and teams to plan, track, and manage project schedules efficiently.
+The Microsoft Project document provides a comprehensive organized schedule for a project, offering a detailed roadmap of tasks, milestones, and timelines.
 	</br>	</br>
 	<u><b>HOWEVER </b> </u>This sort of data is hard to digest at a glance and can benefit greatly from having a dashboard built which visualizes many of the key features of this data.
 </p>
