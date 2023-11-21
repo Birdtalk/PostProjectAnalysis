@@ -1,10 +1,10 @@
 # PostProjectAnalysis
 
 <header>
-  <h1  align="left">Project Analysis Dashboards and Images</h1>
+  <h1  align="left">Project Analysis Dashboard Visualization</h1>
 </p>
   <p>
-    This Repository contains 
+    This Repository contains useful dashboard visualizations made with data taken from Microsoft Project over the lifespan of a 10 week Agile Project. In the dynamic landscape of project management, the ability to distill complex information into clear and meaningful visuals is paramount. These visualizations serve as powerful tools for understanding, analyzing, and communicating the intricacies of project timelines and resource allocation.
   </p>
 </header>
 
@@ -53,8 +53,9 @@ The Microsoft Project document provides a comprehensive and visually organized s
 <h1>Key Budget v Actual Major Discrepency</h1>
 <p>The comparative pie chart effectively pinpoints the areas of greatest variance between estimated and actual hours for a completed project. Each segment of the pie represents a specific task or category, and the chart color-codes the disparities between the initial estimates and the final actual hours. The slices with the most substantial differences are visually emphasized, drawing attention to key areas where the project deviated significantly from the initial projections. This graphical representation allows project managers and stakeholders to quickly identify and focus on the critical aspects that contributed to the largest gaps between estimated and actual hours. Such insights are invaluable for post-project analysis, facilitating a targeted understanding of where adjustments or improvements may be necessary in future project planning and resource allocation.</p>
 <br/>
-<img align="center" src="MostMeanDiff.png" hover = "Prodominant Discrepency/>
-
+<img align="center" src="MostMeanDiff.png" hover = "Prodominant Discrepency" />
+</section>
+	
 <section id="timeline">
 <h1>Actual Hourly Usage Over Project Timeline </h1>
 <p>The timeline chart provides a comprehensive visual representation of the weekly hour expenses categorized by project areas over the duration of the project. Each category is represented by a distinct color or segment on the timeline, and the chart illustrates the total time spent on each project area on a week-by-week basis. This dynamic visual display allows stakeholders to easily track the evolution of time allocation throughout the project's timeline, highlighting peaks and troughs in resource utilization for each category. The timeline chart serves as a powerful tool for analyzing trends, identifying critical periods of high or low activity, and assessing the overall distribution of effort across different project areas. This information aids project managers and teams in making informed decisions, optimizing resource allocation, and ensuring a balanced and efficient workflow throughout the project's lifecycle.</p>
