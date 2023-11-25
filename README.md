@@ -4,7 +4,7 @@
   <h1  align="left">Project Analysis Dashboard Visualization</h1>
 </p>
   <p>
-    This Repository contains useful dashboard visualizations made with data taken from Microsoft Project over the lifespan of a 10 week Agile Project. In the dynamic landscape of project management, the ability to distill complex information into clear and meaningful visuals is paramount. These visualizations serve as powerful tools for understanding, analyzing, and communicating the intricacies of project timelines and resource allocation.
+    This Repository contains useful excel dashboard visualizations made with data taken from Microsoft Project over the lifespan of a 10 week Agile Project. In the dynamic landscape of project management, the ability to distill complex information into clear and meaningful visuals is paramount. These visualizations serve as powerful tools for understanding, analyzing, and communicating the intricacies of project timelines and resource allocation.
 
 	
   </p>
